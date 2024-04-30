@@ -25,5 +25,3 @@ posts = "/blog/:title/"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
-
-ignoreErrors = ["error-remote-getjson"]  #yml or ignoreErrors = ["error-remote-getjson"]
